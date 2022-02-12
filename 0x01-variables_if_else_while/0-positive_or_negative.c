@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*This function returns a random value 
-* and indicates if it is positive, negativa or zero.*/
+/*This function returns a random value */
+/* and indicates if it is positive, negativa or zero.*/
 int main(void)
 {
 int n;
