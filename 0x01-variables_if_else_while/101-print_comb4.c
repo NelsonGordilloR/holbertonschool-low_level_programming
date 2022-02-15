@@ -20,7 +20,7 @@ while (c < 58)
 putchar(a);
 putchar(b);
 putchar(c);
-if(a != 55)
+if (a != 55)
 {
 putchar(44);
 putchar(32); }
