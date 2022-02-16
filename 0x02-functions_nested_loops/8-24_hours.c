@@ -2,7 +2,7 @@
 /**
  * jack_bauer - this funcion prints
  * every minute of the day from 00:00 to 23:59
- * @n: int type intiger
+ * @i @j: int type intiger
  * Return: 0
  */
 void jack_bauer(void)
