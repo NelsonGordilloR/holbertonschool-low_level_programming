@@ -6,8 +6,8 @@
 void print_alphabet_x10(void)
 {
 int contador;
-char a ;
-for(contador = 0; contador <= 10; contador++)
+char a;
+for (contador = 0; contador <= 9; contador++)
 {
 a = 'a';
 while (a <= 'z')
