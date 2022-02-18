@@ -1,13 +1,13 @@
 #include "main.h"
 /**
  *  _isdigit - This function returns
- * @c is 1 if is a digit and 0 otherwise
- *  Return: 1 if is uppercase, 0 otherwise
+ * @c integer
+ *  Return: 1 if c is digit, 0 otherwise
  */
 int _isdigit(int c)
 {
-  if (c >= 48 && c < 57)
-    return (1);
-  else
-    return (0);
+if (c >= 48 && c < 57)
+return (1);
+else
+return (0);
 }
