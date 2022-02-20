@@ -14,7 +14,7 @@ for (a = 0; a <= 14; a++)
 {
 if (a > 9)
 {
-_putchar(48 + a/10);
+_putchar(48 + a / 10);
 }
 _putchar(48 + a % 10);
 }
