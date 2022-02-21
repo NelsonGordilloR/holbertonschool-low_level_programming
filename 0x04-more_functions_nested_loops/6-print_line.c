@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * print_line - prints a line
- * @c : integer
  * @n : integer
  * returns: 0
  */
